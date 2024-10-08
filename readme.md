@@ -1,6 +1,6 @@
 EVALUACION Manuel Fuica:
 
-# Creacion de un servidor con Node, instalacion de paquetes necesarios, consumir datos de un archivo json usando postman
+## Creacion de un servidor con Node, instalacion de paquetes necesarios, consumo de datos desde un archivo json usando postman
 ## Se pueden ver los animes, crear un anime, actualizar un anime y eliminar, tambien modifica el archivo json
 ## Se utilizo mocha y chai para realizar dos test, uno para el metodo GET y otro para el metodo POST
 
